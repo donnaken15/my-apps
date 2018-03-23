@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string> https://github-production-release-asset-2e65be.s3.amazonaws.com/95243108/7fc674d4-5acd-11e7-8456-f525b803ba73?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20180323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20180323T223426Z&X-Amz-Expires=300&X-Amz-Signature=fecd5587632d9cea0c0791884fffa74bee9f5766558e0116eead4c303ddff8cb&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3DApp.Installer.ipa&response-content-type=application%2Foctet-stream</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.fuckapple.ibox</string>
+                <key>bundle-version</key>
+                <string>1.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>iBox</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
